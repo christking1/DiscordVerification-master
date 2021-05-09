@@ -1,0 +1,16 @@
+{
+  "name": "discord-verification",
+  "version": "1.0.0",
+  "description": "A Discord verification bot made in node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "nates",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
